@@ -25,7 +25,7 @@ namespace Tyuiu.ElmurzaevIH.Sprint5.Task1.V29
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дана функция на [-5, 5] с шагом 1. Результат сохранить в текстовый файл *");
             Console.WriteLine("* в текстовый файл OutPutFileTask0.txt и вывести на консоль.              *");
-            Console.WriteLine("* Округлить до 3 знаков после запятой.                                    *");
+            Console.WriteLine("* Округлить до 2 знаков после запятой.                                    *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
